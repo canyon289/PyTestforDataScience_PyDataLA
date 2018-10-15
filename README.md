@@ -34,3 +34,8 @@ In data science you'll frequently be using other peoples libraries. This example
 
 ## Next steps and advanced topics
 We'll have an open discussion about functionality such as parametrization, test finalizers, exception testing, and code coverage
+
+
+# SpeakerRate
+Feedback on this talk is welcome!
+https://speakerrate.com/events/18193-pydata-los-angeles-2018
