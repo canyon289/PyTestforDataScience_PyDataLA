@@ -1,5 +1,6 @@
-# PyTestforDataScience_PyDataLA
-Pytest for Data Science Beginners. No prior testing knowledge is assumed! 
+# Pytest for Data Science
+Pytest for Data Science Beginners. No prior testing knowledge is assumed!  
+This is a tutorial given at PyData Los Angeles 2018
 
 ## Goal
 Introduce testing philosophy and code. By end of tutorial attendees will be able to write pytest unit tests themselves. Specifically they will know about
