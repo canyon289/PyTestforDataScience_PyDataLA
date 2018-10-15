@@ -17,7 +17,7 @@ About the speaker and format of talk
 ## Is testing needed in Data Science?
 Spoiler alert, yes. Testing is widely used in serious data science. We'll cover examples and real world cases.
 
-## Instructor Examples and Attendee
+## Instructor Examples and Attendee activities
 This tutorial will have plenty of hands on activities. Each section below will have an instructor explanation followed with a student challenge.
 
 ## How pytest works and writing a basic test
