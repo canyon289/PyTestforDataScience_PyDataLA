@@ -112,3 +112,4 @@ dmypy.json
 
 *.swp
 .DS_Store
+.idea
