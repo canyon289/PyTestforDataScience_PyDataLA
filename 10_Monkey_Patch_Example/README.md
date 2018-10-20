@@ -1,6 +1,6 @@
 # MonkeyPatch
 
-Moneypatch is a built in pytest fixture that lets you modify the behavior
+Monkeypatch is a built in pytest fixture that lets you modify the behavior
 of existing code. This is sometimes needed with unittests because unittests
 are supposed to be "self contained" which means they shouldn't need anything
 other than python to run.
