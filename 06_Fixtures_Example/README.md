@@ -21,7 +21,7 @@ typing the same code in over and over again
 * https://docs.pytest.org/en/latest/fixture.html#pytest-fixtures-explicit-modular-scalable
 * https://docs.pytest.org/en/latest/fixture.html#scope-sharing-a-fixture-instance-across-tests-in-a-class-module-or-session
 
-## Helpful pytest flags
+## Helpful pytest command line switches
 
 `pytest -v my_library/tests` is verbose mode and prints more information about
-tests and prints more information about test runs
+tests and test runs
