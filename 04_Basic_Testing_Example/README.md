@@ -13,3 +13,5 @@ Test files are invoked with `pytest *insert test file or directory here*`
 * From my experience needs the minimum amount of code
 * Has nice features like fixtures and parametrization (We'll get this later)
 * Used by all the projects I work on (pymc3, arviz, xarray, etc)
+
+## Tests in Arviz

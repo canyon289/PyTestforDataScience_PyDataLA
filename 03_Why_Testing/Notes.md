@@ -1,5 +1,5 @@
-# Bugs in code
-A software bug is an error, flaw, failure or fault in a computer program - Wikipedia
+# What is a bug
+A software bug is an error, flaw, failure or fault in a computer program - *Wikipedia*
 
 ## Division in Python 2 versus Python 3
 * Default floor division in Python 2 is *not* a bug because its how Python 2 was designed to work
@@ -14,4 +14,5 @@ By reading the tests users can get a sense of what expected inputs and outputs a
 
 ## Testing helps with code development and refactoring 
 By writing tests you help ensure that new code doesn't break existing functionality
+
 

@@ -1,3 +1,12 @@
+# Things you should do now
+## Download this repo
+`git clone https://github.com/canyon289/PyTestforDataScience_PyDataLA`
+
+## Install the requirements
+Ideally in an isolated python3 environment  
+`pip install -r requirements.txt`
+
+
 # How things will go
 
 Tutorial will be a mix of 

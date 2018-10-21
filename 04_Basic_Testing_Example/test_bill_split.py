@@ -9,5 +9,5 @@ def test_bill_splitting():
     bill_cost = 5
     split = bill_split.split_bill(bill_cost)
 
-    # Check result with assert statment and conditional
+    # Check result with assert statement and conditional
     assert split == 2.5
