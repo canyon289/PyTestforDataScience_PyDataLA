@@ -13,3 +13,7 @@ against their real apis you'll run out of tries. Mock lets you fake http request
 don't have to practice against the real thing
 
 * A database response, especially when you don't have access to the database
+
+
+## References
+* https://docs.python.org/3/library/unittest.mock.html#the-mock-class
