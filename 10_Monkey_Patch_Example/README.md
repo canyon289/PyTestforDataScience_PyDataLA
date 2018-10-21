@@ -26,5 +26,5 @@ Keywords to search for.
 * Python object reference
 
 # Resources
-* Insert pytest monkeypatch documentation
+* https://docs.pytest.org/en/latest/monkeypatch.html
 
