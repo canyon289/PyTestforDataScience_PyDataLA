@@ -5,7 +5,7 @@
 * Helpful pytest flags
 
 ## Test and Module directory structure
-* Add references here to putting tests in module directory or out of module directory
+* https://docs.pytest.org/en/latest/goodpractices.html
 
 ## Fixtures
 Fixture syntax for pytest is 
