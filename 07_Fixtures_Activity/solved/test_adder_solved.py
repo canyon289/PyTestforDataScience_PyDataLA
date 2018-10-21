@@ -2,6 +2,7 @@
 import pytest
 from .. import my_module
 
+
 @pytest.fixture(scope="session")
 def adder_fixture():
     adder = my_module.SingleObject(5)
