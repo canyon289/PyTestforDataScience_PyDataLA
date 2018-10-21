@@ -9,7 +9,8 @@
 
 ## Fixtures
 Fixture syntax for pytest is 
-```
+
+```python
 @pytest.fixture(scope="fixture_scope")
 def my_fixture():
     return fixture_object

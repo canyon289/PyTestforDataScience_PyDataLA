@@ -25,3 +25,9 @@ class SingleObject:
     def add_more(self, another_number):
         """Adds a number"""
         return another_number + self.number
+
+
+if __name__ == "__main__":
+    print("Using a single object only once")
+    s = SingleObject(4)
+    print(s.add_more(2))
